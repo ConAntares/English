@@ -84,5 +84,90 @@ Examples: sort warm tore boar port
 Examples: tour torment moor  
 
 * jʊər
-Examples: pure Europe 
+Examples: pure Europe  
+
+## English Consonants
+
+* p
+Examples: spin pen tip
+
+* b
+Examples: but web
+
+* t
+Examples: two sting bet 
+
+* d
+Examples: do daddy odd 
+
+* tʃ  
+Examples: chair nature teach  
+
+* dʒ  
+Examples: gin joy edge  
+
+* k  
+Examples: cat kill skin queen unique thick  
+
+* g  
+Examples: go get beg
+
+* f  
+Examples: fool enough leaf off photo  
+
+* v  
+Examples: voice have of  
+
+* θ  
+Examples: thing teeth  
+
+* ð  
+Examples: this breathe father  
+
+* s  
+Examples: see city pass  
+
+* z  
+Examples: zoo rose goods  
+
+* ʃ  
+Examples: she sure session emotion leash
+
+* ʒ  
+Examples: genre pleasure beige equation seizure  
+
+* h  
+Examples: ham hue   
+
+* m  
+Examples: ham man  
+
+* n  
+Examples: no tin
+
+* ŋ  
+Examples: ringer sing finger drink  
+
+* l  
+Examples: left bell sable please  
+
+* r  
+Examples: run very probably  
+
+* w  
+Examples: we queen  
+
+* j  
+Examples: yes nyala  
+
+* hw  
+Examples: what  
+
+## Marginal Consonants 
+
+* x  
+Examples: loch ugh  
+
+* ʔ  
+Examples: uh-oh  
 
