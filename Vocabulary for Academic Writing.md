@@ -28,6 +28,9 @@ effective
 
 ## M
 
+* momentous [a]: very important  
+
+
 ## N
 
 ## O
