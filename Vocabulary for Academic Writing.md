@@ -1,4 +1,4 @@
-# Academic and Writing Vocabulary
+# Vocabulary for Academic Writing
 
 ## A
 
@@ -9,6 +9,8 @@
 ## D
 
 ## E
+
+effective
 
 ## F
 
