@@ -14,7 +14,6 @@
 
 ## E
 
-
 ## F
 
 ## G
@@ -42,6 +41,10 @@
 ## R
 
 ## S
+
+* starting  ['stɑrtɪŋ]  ↗
+
+* studying  [ˈstʌdɪŋ] ↘
 
 ## T
 
