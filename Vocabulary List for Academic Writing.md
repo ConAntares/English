@@ -2,6 +2,8 @@
 
 ## A
 
+* applicability
+
 ## B
 
 ## C
@@ -12,6 +14,8 @@
 
 effective
 
+existence
+
 ## F
 
 ## G
@@ -19,6 +23,12 @@ effective
 ## H
 
 ## I
+
+inadequate 
+    [a] not enough
+
+indicate
+    [v] demonstrate
 
 ## J
 
@@ -28,11 +38,11 @@ effective
 
 ## M
 
+* majority
+    [n]: the major part
+
 * momentous   
     [a]: very important
-
-* hhh
-
 
 ## N
 
@@ -40,15 +50,29 @@ effective
 
 ## P
 
+* proportion
+
 ## Q
 
 ## R
 
+* resistance
+    [n] resisting force
+
 ## S
+
+* scarcity
+    [n] lack, shortage
+
+* substantial
+    [a] many: a substantial number of = a significant number of
 
 ## T
 
 ## U
+
+* universality
+    [n] catholicity, generalizability
 
 ## V
 
