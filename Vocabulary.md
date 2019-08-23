@@ -76,8 +76,6 @@ indicate
 * substantial
     [a] many: a substantial number of = a significant number of
 
-
-
 ## T
 
 ## U
