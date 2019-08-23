@@ -4,6 +4,11 @@
 
 * applicability
 
+* accept  [əkˈsɛpt]
+
+* accepted   [ək'sɛptɪd]
+
+
 ## B
 
 ## C
@@ -64,8 +69,14 @@ indicate
 * scarcity
     [n] lack, shortage
 
+* starting  ['stɑrtɪŋ]  ↗
+
+* studying  [ˈstʌdɪŋ] ↘
+
 * substantial
     [a] many: a substantial number of = a significant number of
+
+
 
 ## T
 
