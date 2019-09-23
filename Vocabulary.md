@@ -8,7 +8,6 @@
 
 * accepted   [ək'sɛptɪd]
 
-
 ## B
 
 ## C
@@ -74,14 +73,14 @@ indicate
 * studying  [ˈstʌdɪŋ] ↘
 
 * substantial
-    [a] many: a substantial number of = a significant number of
+    [a] many: a substantial number of = a significant number of.
 
 ## T
 
 ## U
 
 * universality
-    [n] catholicity, generalizability
+    [n] catholicity, generalizability.
 
 ## V
 
