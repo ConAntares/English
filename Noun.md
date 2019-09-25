@@ -18,7 +18,7 @@
 
 1,000,000,000,000   trillion
 
-## Month
+## Abbreviations of Month
 
 01  January     Jan.
 
@@ -44,7 +44,7 @@
 
 12  December    Dec.
 
-## Week
+## Abbreviations of Week
 
 Sunday      Sun.
 
