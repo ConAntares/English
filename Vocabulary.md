@@ -1,4 +1,4 @@
-# Vocabulary List for Academic Writing
+# Academic Vocabulary
 
 ## A
 
@@ -81,6 +81,70 @@ indicate
 
 * universality
     [n] catholicity, generalizability.
+
+## V
+
+## W
+
+## X
+
+## Y
+
+## Z
+
+# General Vocabulary
+
+## A
+
+* applicability
+
+* accept  [əkˈsɛpt]
+
+* accepted   [ək'sɛptɪd]
+
+## B
+
+## C
+
+## D
+
+## E
+
+## F
+
+## G
+
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+## M
+
+## N
+
+## O
+
+## P
+
+
+## Q
+
+## R
+
+
+## S
+
+
+## T
+
+## U
+
 
 ## V
 
