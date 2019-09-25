@@ -4,10 +4,6 @@
 
 * applicability
 
-* accept  [əkˈsɛpt]
-
-* accepted   [ək'sɛptɪd]
-
 ## B
 
 ## C
@@ -68,10 +64,6 @@ indicate
 * scarcity
     [n] lack, shortage
 
-* starting  ['stɑrtɪŋ]  ↗
-
-* studying  [ˈstʌdɪŋ] ↘
-
 * substantial
     [a] many: a substantial number of = a significant number of.
 
@@ -92,11 +84,9 @@ indicate
 
 ## Z
 
-# General Vocabulary
+# General Vocabulary and Pronunciation
 
 ## A
-
-* applicability
 
 * accept  [əkˈsɛpt]
 
@@ -132,14 +122,15 @@ indicate
 
 ## P
 
-
 ## Q
 
 ## R
 
-
 ## S
 
+* starting  ['stɑrtɪŋ]  ↗
+
+* studying  [ˈstʌdɪŋ] ↘
 
 ## T
 

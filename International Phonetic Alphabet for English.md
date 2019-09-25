@@ -171,3 +171,18 @@ Examples: loch ugh
 * ʔ  
 Examples: uh-oh  
 
+# Alphabet Pronunciation
+
+|key    |he     |help   |hi     |hoho   |who    |hard   
+|-|-|-|-|-|-|-
+|A      |B      |F      |I      |O      |Q      |R 
+|H      |C      |L      |Y      |       |U      |
+|J      |D      |M      |       |       |W      |
+|K      |E      |N      |       |       |       |
+|       |G      |S      |       |       |       | 
+|       |P      |X      |       |       |       | 
+|       |T      |       |       |       |       | 
+|       |V      |       |       |       |       |
+|       |Z      |       |       |       |       |
+
+W: double U
