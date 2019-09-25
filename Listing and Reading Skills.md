@@ -1,5 +1,49 @@
 # Listening
 
-## Abbreviations of Date
+## Note-Talking Symbols
+
+equal           =;  
+does not equal  ≠;   
+per             /;  
+is less than    <;  
+is more than    >;  
+number          #;  
+percent         %;  
+plus            +;
+minus           -;
+and             +, &;  
+or              /;  
+approximately   ~;  
+circa           ~;  
+go up           ↗;  
+increase        ↗;  
+booming         ↗;  
+incremental     ↗;  
+go down         ↘;  
+decrease        ↘;  
+decreasing      ↘;  
+depleting       ↘;  
+reductive       ↘;  
+money           $;  
+heading toward  ∈, ⇒;  
+because         ∵;  
+therefore, so   ∴;  
+inches          ";  
+feet, minutes   ';  
+degree          °;  
+at              @;  
+with            w;  
+within          wn, w/in;  
+without         wo, w/o;  
+since 1926      1926→;  
+before 1926     ←1926;  
+1926 & earlier  1926←;  
+century         C;  
+man, men        ♂;
+woman, women    ♀;
+for example     e.g.;  
+that is         i.e.;  
+in other words  i.e.;  
+repeated words  "";
 
 # Reading
