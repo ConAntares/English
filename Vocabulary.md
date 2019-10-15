@@ -2,7 +2,7 @@
 
 ## A
 
-* applicability
++ applicability
 
 ## B
 
@@ -54,10 +54,10 @@ indicate
 
 ## M
 
-* majority
++ majority
     [n]: the major part
 
-* momentous   
++ momentous   
     [a]: very important
 
 ## N
@@ -80,17 +80,26 @@ indicate
 * scarcity
     [n] lack, shortage
 
+spare
+    [n] an additional thing, for example a key, that you keep so that it is available;
+    [v] to make something such as time, money, or workers available for someone, especially when this is difficult for you to do;
+        ≈ save;
+    [a] a key etc that you keep in addition to the one you usually use, so that it is available if the one you usually use breaks, gets lost etc;
+        ≈ extra;
+    [a] not being used or not needed at the present time;
+        ≈ not used, not needed
+
 staple
     [a] forming a basic, large or important part of something.
 
-* substantial
++ substantial
     [a] many: a substantial number of = a significant number of.
 
 ## T
 
 ## U
 
-* universality
++ universality
     [n] catholicity, generalizability.
 
 ## V
@@ -107,9 +116,9 @@ staple
 
 ## A
 
-* accept  [əkˈsɛpt]
++ accept  [əkˈsɛpt]
 
-* accepted   [ək'sɛptɪd]
++ accepted   [ək'sɛptɪd]
 
 ## B
 
@@ -147,9 +156,9 @@ staple
 
 ## S
 
-* starting  ['stɑrtɪŋ]  ↗
++ starting  ['stɑrtɪŋ]  ↗
 
-* studying  [ˈstʌdɪŋ] ↘
++ studying  [ˈstʌdɪŋ] ↘
 
 ## T
 
