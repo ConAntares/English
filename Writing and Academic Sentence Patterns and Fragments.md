@@ -2,10 +2,18 @@
 
 ## Fragments for academic Writing
 
-### Contribution
+### Statement
 
-Modern industry makes a significant direct contribution to greenhouse gas emission.
+### Transition
 
 ### Case
 
 ### Result
+
+### Contribution
+
+Modern industry makes a significant direct contribution to greenhouse gas emission.
+
+### Attention
+
+This problem deserves our full attention.

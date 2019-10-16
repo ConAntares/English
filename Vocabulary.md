@@ -23,9 +23,15 @@ contaminate
 degrade
     [v] to make something become worse, especially in quality; to treat somebody in a way that makes them seem not worth any respect.
 
+deliver
+
+deserve
+
 ## E
 
 effective
+
+erosion
 
 existence
 
@@ -47,6 +53,8 @@ indicate
     [v] demonstrate
 
 ## J
+
+jeopardize
 
 ## K
 
