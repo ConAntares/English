@@ -17,3 +17,34 @@ Modern industry makes a significant direct contribution to greenhouse gas emissi
 ### Attention
 
 This problem deserves our full attention.
+
+### Trend
+
+* Degree
+  
+H: extreme(a), extremely(ad), drastic(a), drastically(ad), huge(a), hugely(ad), rapid(a), rapidly(ad), obvious(a), obviously(ad);
+
+M: normal(a), normally(ad);
+
+L: slim(a), slimly(ad)
+
+* Increase
+
+[n] increase,
+[v] flourish, increase,
+
+* Decline
+
+[n] degradation, depletion
+[v] degrade, deplete
+
+* Steady
+
+* Accelerate
+
+* Extremum
+
+### Account
+
+
+

@@ -27,6 +27,8 @@ degrade
 
 deliver
 
+deplete
+
 deserve
 
 ## E
@@ -43,6 +45,10 @@ exacerbate
 ## F
 
 flourish
+    [v] to develop quickly and be successful or common;
+        ≈ growth, thrive;
+    [v] to grow well; to be healthy and happy;
+    [n] with a large confident movement that makes people notice you.
 
 ## G
 
