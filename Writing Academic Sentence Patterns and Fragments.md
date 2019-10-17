@@ -1,5 +1,17 @@
 # Academic Sentence Patterns 
 
+## Modal Verbs
+
+* will      would
+* can       could
+* may       might
+* (shall)   should
+* must      -
+
+Billy will pass the exam if he studies.  
+Mary would pass the exam if she studied.  
+If science understood the causes of cancer, we might be able to remedy it.
+
 ## Fragments for academic Writing
 
 ### Statement
@@ -22,7 +34,7 @@ This problem deserves our full attention.
 
 * Degree
   
-H: extreme(a), extremely(ad), drastic(a), drastically(ad), huge(a), hugely(ad), rapid(a), rapidly(ad), obvious(a), obviously(ad);
+H: enormous(a), enormously(ad), extreme(a), extremely(ad), drastic(a), drastically(ad), huge(a), hugely(ad), rapid(a), rapidly(ad), obvious(a), obviously(ad), evident(a), evidently(ad);
 
 M: normal(a), normally(ad), stable(a), stationary(a), steady(a), steadily(ad);
 
@@ -47,5 +59,4 @@ L: slim(a), slimly(ad)
 ### Account
 
 It is estimated that industrial agriculture contributes about 25-30% of greenhouse gas emissions.
-
 

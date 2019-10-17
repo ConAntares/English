@@ -35,6 +35,12 @@ deserve
 
 effective
 
+enormous
+    [a] 
+
+enormously
+    [ad] 
+
 erosion
 
 existence
