@@ -18,6 +18,12 @@ If science understood the causes of cancer, we might be able to remedy it.
 
 ### Transition
 
+* Coordinating: same important:
+Maccas is tasty, but fast food can be dangerous.
+
+* Subordinating: the latter is more important:
+Although Maccas is tasty, fast food can be dangerous.
+
 ### Case
 
 ### Result
@@ -59,4 +65,5 @@ L: slim(a), slimly(ad)
 ### Account
 
 It is estimated that industrial agriculture contributes about 25-30% of greenhouse gas emissions.
+
 

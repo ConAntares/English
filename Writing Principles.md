@@ -1,4 +1,8 @@
-# Writing Principle
+# Writing Principles
+
+## Normal Principles
+
+* Don't  waste words, don't write rubbish.
 
 ## Nominalisation
 
