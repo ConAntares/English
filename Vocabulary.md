@@ -128,6 +128,10 @@ staple
 
 ## V
 
+vegan
+
+vegetarian
+
 ## W
 
 ## X
@@ -183,6 +187,10 @@ staple
 + starting  ['stɑrtɪŋ]  ↗
 
 + studying  [ˈstʌdɪŋ] ↘
+
+synthesise
+
+synthesis
 
 ## T
 
