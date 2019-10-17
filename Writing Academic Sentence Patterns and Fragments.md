@@ -24,7 +24,7 @@ This problem deserves our full attention.
   
 H: extreme(a), extremely(ad), drastic(a), drastically(ad), huge(a), hugely(ad), rapid(a), rapidly(ad), obvious(a), obviously(ad);
 
-M: normal(a), normally(ad);
+M: normal(a), normally(ad), stable(a), stationary(a), steady(a), steadily(ad);
 
 L: slim(a), slimly(ad)
 
