@@ -20,6 +20,8 @@ contaminate
 
 ## D
 
+decline
+
 degrade
     [v] to make something become worse, especially in quality; to treat somebody in a way that makes them seem not worth any respect.
 
@@ -39,6 +41,8 @@ exacerbate
     [v] to make something that was already bad worse.
 
 ## F
+
+flourish
 
 ## G
 
@@ -74,18 +78,18 @@ jeopardize
 
 ## P
 
-* proportion
++ proportion
 
 ## Q
 
 ## R
 
-* resistance
++ resistance
     [n] resisting force
 
 ## S
 
-* scarcity
++ scarcity
     [n] lack, shortage
 
 spare
