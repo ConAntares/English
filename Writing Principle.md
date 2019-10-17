@@ -24,4 +24,8 @@ Examples
 * The inefficient consumption of water in irrigation accounts for 45%.
 
 * Industrial agriculture is dependent on synthetic chemicals. This has reduced biodiversity in the insect world.
-* The dependence on synthetic chemical in industrial agriculture tends to result in a reduction in biodiversity.
+* The dependence on synthetic chemicals in industrial agriculture tends to result in a reduction in biodiversity.
+
+* Industrial animal production creates threats to human health and the environment. It concentrates thousands of animals into crowded indoor facilities.
+* The concentration of thousands animals into crowded indoor facilities industrial animal production tends to create threats to human health and environment.
+
