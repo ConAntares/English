@@ -35,8 +35,8 @@ L: slim(a), slimly(ad)
 
 * Decline
 
-[n] degradation, depletion
-[v] degrade, deplete
+[n] degradation, depletion, reduction
+[v] degrade, deplete, reduce
 
 * Steady
 
@@ -46,5 +46,6 @@ L: slim(a), slimly(ad)
 
 ### Account
 
+It is estimated that industrial agriculture contributes about 25-30% of greenhouse gas emissions.
 
 
