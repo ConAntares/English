@@ -96,6 +96,12 @@ jeopardize
 
 ## R
 
+relate
+
+relevant
+    [a] Something that is relevant to a situation or person is important or significant in that situation or to that person; 
+        Sth is relevant to sth.
+
 + resistance
     [n] resisting force
 
@@ -175,6 +181,8 @@ vegetarian
 ## N
 
 ## O
+
+outcome
 
 ## P
 

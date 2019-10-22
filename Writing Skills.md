@@ -66,5 +66,8 @@ L: slim(a), slimly(ad)
 
 It is estimated that industrial agriculture contributes about 25-30% of greenhouse gas emissions.
 
+## Academic Vocabulary
+
+nowadays → recently, in modern society, in contemporary time
 
 ## Academic Sentence Patterns 
