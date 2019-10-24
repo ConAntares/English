@@ -15,6 +15,9 @@ breed
 commodity
     [n] a product or a raw material that can be traded.
 
+
+commercial 
+
 complete
 
 contaminate
@@ -51,6 +54,8 @@ existence
 
 exacerbate
     [v] to make something that was already bad worse.
+
+expansion
 
 ## F
 
@@ -93,6 +98,8 @@ jeopardize
 ## O
 
 ## P
+
+prevailing
 
 + proportion
 
@@ -143,6 +150,8 @@ vegan
 vegetarian
 
 ## W
+
+wisdom
 
 ## X
 
