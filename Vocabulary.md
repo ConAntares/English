@@ -199,6 +199,11 @@ outcome
 
 ## P
 
+particular
+    * in particular = especially
+
+persuade
+
 ## Q
 
 ## R
@@ -221,6 +226,8 @@ synthesis
 ## V
 
 ## W
+
+wisdom
 
 ## X
 
