@@ -40,6 +40,8 @@ deserve
 
 effective
 
+emphasize
+
 encompassing
 
 enormous
