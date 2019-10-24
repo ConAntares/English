@@ -15,6 +15,8 @@ breed
 commodity
     [n] a product or a raw material that can be traded.
 
+complete
+
 contaminate
     [v] to make a substance or place dirty or no longer pure by adding a substance that is dangerous or carries disease.
 
@@ -34,6 +36,8 @@ deserve
 ## E
 
 effective
+
+encompassing
 
 enormous
     [a] 
@@ -95,6 +99,12 @@ jeopardize
 ## Q
 
 ## R
+
+relate
+
+relevant
+    [a] Something that is relevant to a situation or person is important or significant in that situation or to that person; 
+        Sth is relevant to sth.
 
 + resistance
     [n] resisting force
@@ -175,6 +185,8 @@ vegetarian
 ## N
 
 ## O
+
+outcome
 
 ## P
 
