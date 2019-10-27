@@ -1,14 +1,16 @@
-# Academic Vocabulary
+#### Academic Vocabulary
 
 ## A
 
 + applicability
+
 
 ## B
 
 breed
     [n] a particular type of animal that has been developed by people; 
     [v] to keep animals or plants in order to produce new ones in a controlled way.
+
 
 ## C
 
@@ -69,7 +71,9 @@ flourish
 
 ## G
 
+
 ## H
+
 
 ## I
 
@@ -85,7 +89,9 @@ jeopardize
 
 ## K
 
+
 ## L
+
 
 ## M
 
@@ -94,6 +100,7 @@ jeopardize
 
 + momentous   
     [a]: very important
+
 
 ## N
 

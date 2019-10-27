@@ -2,7 +2,6 @@
 
 ## English Vowels and Diphthongs
 
-"""
 * æ  
 Examples: lad bad cat  
 
@@ -186,4 +185,3 @@ Examples: uh-oh
 |       |Z      |       |       |       |       |
 
 W: double U
-"""

@@ -2,7 +2,6 @@
 
 ## Note-Talking Symbols
 
-"""
 equal           =;  
 does not equal  ≠;   
 per             /;  
@@ -46,6 +45,5 @@ for example     e.g.;
 that is         i.e.;  
 in other words  i.e.;  
 repeated words  "";
-"""
 
 # Reading
