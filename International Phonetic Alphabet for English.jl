@@ -2,6 +2,7 @@
 
 ## English Vowels and Diphthongs
 
+"""
 * æ  
 Examples: lad bad cat  
 
@@ -174,7 +175,6 @@ Examples: uh-oh
 # Alphabet Pronunciation
 
 |key    |he     |help   |hi     |hoho   |who    |hard   
-|-|-|-|-|-|-|-
 |A      |B      |F      |I      |O      |Q      |R 
 |H      |C      |L      |Y      |       |U      |
 |J      |D      |M      |       |       |W      |
@@ -186,3 +186,4 @@ Examples: uh-oh
 |       |Z      |       |       |       |       |
 
 W: double U
+"""

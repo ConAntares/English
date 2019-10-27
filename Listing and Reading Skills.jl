@@ -2,6 +2,7 @@
 
 ## Note-Talking Symbols
 
+"""
 equal           =;  
 does not equal  ≠;   
 per             /;  
@@ -24,11 +25,11 @@ decrease        ↘;
 decreasing      ↘;  
 depleting       ↘;  
 reductive       ↘;  
-money           $;  
+money           $, €;
 heading toward  ∈, ⇒;  
 because         ∵;  
 therefore, so   ∴;  
-inches          ";  
+inches          ";
 feet, minutes   ';  
 degree          °;  
 at              @;  
@@ -45,5 +46,6 @@ for example     e.g.;
 that is         i.e.;  
 in other words  i.e.;  
 repeated words  "";
+"""
 
 # Reading
