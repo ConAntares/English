@@ -6,7 +6,6 @@ Our planet is facing varies inter-related crises including resource and ecology.
 
 Agroecology is defined as the study of ecological processes applied to agricultural systems. It associates with sociology, agricultural technology, and productivity. 
 
-
 ## Reference
 
 Altieri, M. (2015). Agroecology, Key Concepts, Principles and Practices. Third World Network (TWN)-SOCLA. Jutaprint. Penang. Malaysia.
