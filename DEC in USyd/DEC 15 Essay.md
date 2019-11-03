@@ -17,8 +17,7 @@ According to the above principles, M. Alteieri concludes that agroecology is bas
 4. Species and ecological diversity of agroecosystem in time, space, other factors at the landscape and field level.
 5. Enhance positive biological interactions and synergisms among agricultural components, thus providing the promoting effects on ecological processes, services, and production.
 
-These principles take technological forms on specific agriculture practices in order to be applied.
-
+These principles take technological forms on specific agriculture practices in order to be applied. For example, the principle of diversification in time and space in farming activities takes, in practice, the form of polycultures. This idea can promote processes that are basic for an agroecosystem to function, such as resource cycling, pest control, and allelopathy for species control. Because some details of agroecology works are desirable and necessary, we can use indicators like soil quality, nutrition distribution, and plant health, which allow that characteristics and indicators are visible or measurable, and whether these principles have been properly applied.
 
 ## Reference
 
